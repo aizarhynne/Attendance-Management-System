@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blue Box with Right-Aligned Logout</title>
+  <link rel="stylesheet" href="user-management.component.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="blue-box">
+Manage Attendance Record    
+<ul class="sidebar">
+      <li><a href="#">Home</a></li>
+      <li>
+        <div class="dropdown">
+          <a href="#" class="dropdown-toggle">Admin Dashboard <i class="fas fa-caret-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Manage Attendance Record</a></li>
+            <li><a href="#">View Attendance Logs</a></li>
+            <li><a href="#">Edit Attendance Logs</a></li>
+          </ul>
+        </div>
+      </li>
+      <li><a href="#">User Management</a></li>
+      <li><a href="#">Report Generation</a></li>
+      <a href="#" class="logout-btn">Logout</a>
+    </ul>
+  </div>
+  <h1 style="font-family: 'Nonito', sans-serif; font-size: 24px; color: blue;">User Management</h1>
+
+  <h2 style="font-family: Inter ;">Current Users</h2>  <section class="attendance-container"> 
+    <div class="search-container">
+        <input type="text" id="search-input" placeholder="Search...">
+        <button type="submit" id="search-button">Search</button>
+      </div>
+    <div class="attendance-header">
+      <span>#</span>
+      <span>Name</span>
+      <span>Email</span>
+      <span>Semester</span>
+      <span>Assigned Teacher</span>
+      <span>Action</span>
+    </div>
+    
+    <div class="attendance-data-container">
+    </div>
+  </section>
+
+</body>
+</html>
+
+  
+

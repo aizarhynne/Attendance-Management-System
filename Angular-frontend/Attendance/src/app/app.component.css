@@ -1,0 +1,109 @@
+/* styles.css */
+.blue-box {
+    display: flex;
+    justify-content: space-between; /* Option 1: Remove this line if you want to keep space between elements */
+    clear: both; /* Option 2: Add this line if you want to keep space between elements and still have the sidebar on the right */
+    background-color: rgb(10, 10, 47); /* Blue background */
+    color: white;
+    padding: 50px;
+    text-align: left;
+    border-radius: 5px;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    width: 1420px;
+    margin: 20px auto;
+
+    .sidebar {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        color: white;
+        font-size: 20px;
+        margin-left: 140px; /* Adjust this value to control the left margin */
+    
+
+
+
+       
+      
+    }}
+  .sidebar li {
+    display: inline-block; /* Make list items behave like inline elements */
+    margin-right: 10px; /* Add margin between list items */
+    
+  }
+
+ .sidebar a {
+        color: white;
+        margin-right: 30px; /* Add margin between list items */
+
+      }
+ 
+
+.attendance-header {
+display: flex;
+    justify-content: space-between; /* Option 1: Remove this line if you want to keep space between elements */
+    clear: both; /* Option 2: Add this line if you want to keep space between elements and still have the sidebar on the right */
+    background-color: rgb(162, 162, 195); /* Blue background */
+    color: white;
+    padding: 20px;
+    text-align: left;
+    border-radius: 5px;
+    font-size: 24px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    width: 1420px;
+    margin: 20px auto;
+}
+
+.logout-btn {
+    float: right; /* Make it float to the right */
+    padding: 5px 10px;  /* Add padding */
+    background-color: #b52020; /* Set background color */
+    border: 1px solid #ccc; /* Add border */
+    border-radius: 5px; /* Add rounded corners */
+    text-decoration: none; /* Remove underline from text */
+    color: #333; /* Set text color */
+    margin-right: 40px; /* Add margin between list items */
+
+  }
+  
+  .logout-btn:hover { /* Style on hover */
+    background-color: #870606;
+
+  }
+/* Dropdown styles */
+.dropdown {
+    position: relative;
+}
+
+.dropdown-toggle {
+    display: block;
+    cursor: pointer;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #d27f0a;
+    border: 1px solid #cccccc;
+    padding: 0.5rem 1rem;
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu li {
+    list-style: none;
+    padding: 0.5rem 0;
+}
+
+.dropdown-menu a {
+    text-decoration: none;
+    color: #333333;
+}
