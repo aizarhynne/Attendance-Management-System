@@ -1,0 +1,6 @@
+C:\Users\aizar\source\repos\Attendance Management System\AttendanceSystemDB\bin\Debug\AttendanceSystemDB.dacpac
+C:\Users\aizar\source\repos\Attendance Management System\AttendanceSystemDB\bin\Debug\AttendanceSystemDB.dll
+C:\Users\aizar\source\repos\Attendance Management System\AttendanceSystemDB\bin\Debug\AttendanceSystemDB.pdb
+C:\Users\aizar\source\repos\Attendance Management System\AttendanceSystemDB\obj\Debug\AttendanceSystemDB.sqlproj.AssemblyReference.cache
+C:\Users\aizar\source\repos\Attendance Management System\AttendanceSystemDB\obj\Debug\AttendanceSystemDB.dll
+C:\Users\aizar\source\repos\Attendance Management System\AttendanceSystemDB\obj\Debug\AttendanceSystemDB.pdb

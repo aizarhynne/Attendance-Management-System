@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KCyTHvALS1AtybFwIiEO7Ch9DoQapt14qtDdwx8oXEQ=",
+  "Source": "AttendanceSystemAPI",
+  "BasePath": "_content/AttendanceSystemAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
