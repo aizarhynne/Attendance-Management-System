@@ -1,0 +1,50 @@
+<!-- src/app/home/home.component.html -->
+<div class="home-page">
+    <nav class="navbar">
+      <div class="logo">ATTENDANCE MANAGEMENT SYSTEM</div>
+      <div class="nav-links">
+        <a href="#">Home</a>
+        <a href="#">Admin Dashboard</a>
+        <a href="#">User Management</a>
+        <a href="#">Report Generation</a>
+        <button class="login-btn">LOG OUT</button>
+      </div>
+    </nav>
+  
+    <div class="header-container">
+      <h1>User Management</h1>
+      <button class="Add-btn">Add User</button>
+    </div>
+  
+    <div class="header-container1">
+      <h2>Current Users</h2>
+      <input type="text" class="search-bar" placeholder="Search..." />
+    </div>
+  
+    <table class="table">
+      <thead>
+        <tr>
+          <th class="table-header user-header" style="color: rgba(102, 98, 98, 0.937);">#</th>
+          <th class="table-header user-header" style="color: rgba(102, 98, 98, 0.937);">Name</th>
+          <th class="table-header user-header" style="color: rgba(102, 98, 98, 0.937);">Email</th>
+          <th class="table-header user-header" style="color: rgba(102, 98, 98, 0.937);">Semester</th>
+          <th class="table-header user-header" style="color: rgba(102, 98, 98, 0.937);">Assigned Teacher</th>
+          <th class="table-header user-header" style="color: rgba(102, 98, 98, 0.937);">Action</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="user-data">1</td>
+          <td class="user-data">Jon</td>
+          <td class="user-data">doe.com</td>
+          <td class="user-data">3</td>
+          <td class="user-data">Robert</td>
+          <td class="user-data">
+            <button class="edit-btn">Edit</button>
+            <button class="delete-btn">Delete</button>
+          </td>
+        </tr>
+        <!-- More user rows can be added here -->
+      </tbody>
+    </table>
+  </div>
