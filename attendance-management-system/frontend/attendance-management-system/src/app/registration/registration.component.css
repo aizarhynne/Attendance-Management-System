@@ -1,0 +1,106 @@
+.registration-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+    width: 100%;
+    padding: 10px 20px;
+    background-color: #24324a;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .nav-logo h2 {
+    color: white;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-links a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .login-btn, .signup-btn {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+  }
+  
+  .form-section {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 50px;
+  }
+  
+  .form-container {
+    width: 50%;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+  }
+  
+  .submit-btn {
+    background-color: #28a745;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .user-type {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .user-type button {
+    background-color: #d1d1d1;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .facial-enrollment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .facial-enrollment button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  

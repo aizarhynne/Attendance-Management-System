@@ -1,0 +1,51 @@
+<div class="registration-container">
+    <nav class="navbar">
+      <div class="nav-logo">
+        <h2>ATTENDANCE MANAGEMENT SYSTEM</h2>
+      </div>
+      <div class="nav-links">
+        <a href="#">Home</a>
+        <a href="#">Dashboard</a>
+        <button class="login-btn">Log In</button>
+        <button class="signup-btn">Sign Up</button>
+      </div>
+    </nav>
+  
+    <div class="form-section">
+      <div class="form-container">
+        <h1>REGISTER NOW</h1>
+        <form [formGroup]="registerForm" (ngSubmit)="onSubmit()">
+          <label>Email</label>
+          <input type="email" formControlName="email" placeholder="Enter Email" />
+  
+          <label>First Name</label>
+          <input type="text" formControlName="firstName" placeholder="Enter First Name" />
+  
+          <label>Last Name</label>
+          <input type="text" formControlName="lastName" placeholder="Enter Last Name" />
+  
+          <label>Password</label>
+          <input type="password" formControlName="password" placeholder="Enter Password" />
+  
+          <label>Confirmed Password</label>
+          <input type="password" formControlName="confirmPassword" placeholder="Confirm Password" />
+  
+          <label>Contact Number</label>
+          <input type="text" formControlName="contactNumber" placeholder="Enter Contact Number" />
+  
+          <div class="user-type">
+            <button type="button" (click)="setUserType('user')">User</button>
+            <button type="button" (click)="setUserType('admin')">Admin</button>
+          </div>
+  
+          <button type="submit" class="submit-btn">Register Now</button>
+        </form>
+      </div>
+  
+      <div class="facial-enrollment">
+        <h3>Facial Data Enrollment</h3>
+        <button>CLICK HERE</button>
+      </div>
+    </div>
+  </div>
+  
