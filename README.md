@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# Face-Recognition-Attendance-System
 
 This repository contains the code and resources for a facial recognition system. The system is designed to identify and authenticate individuals based on facial features using deep learning techniques.
@@ -8,3 +9,6 @@ This repository contains the code and resources for a facial recognition system.
 ![Screenshot 2024-04-07 113315](https://github.com/francis-njenga/Face-Recognition-Attendance-System/assets/81665629/90cff5f8-7af7-46ed-91fb-040bc7f2cde4)
 
 
+=======
+# Attendance-Management-System
+>>>>>>> 892d74f7586037ade713c61c719f21a868d1c4e7
