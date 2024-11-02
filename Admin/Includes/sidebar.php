@@ -21,7 +21,11 @@
                 <li>
                     <a href="createLecture.php">
                         <span class="icon icon-1"><i class="ri-user-line"></i></span>
+<<<<<<< HEAD
                         <span class="sidebar--item">manage lectures</span>
+=======
+                        <span class="sidebar--item">Manage User</span>
+>>>>>>> 7770af8e (Remove embedded repository and add project files)
                     </a>
                 </li>
                 <li>

@@ -17,6 +17,10 @@ session_start();
    
 </head>
 <div class="container" id="signin">
+<<<<<<< HEAD
+=======
+  <h1>ATTENDANCE MANAGEMENT SYSTEM</h1><br>
+>>>>>>> 7770af8e (Remove embedded repository and add project files)
     <h1>LOGIN</h1>
     <div id="messageDiv" class="messageDiv" style="display:none;"></div>
 
@@ -24,7 +28,11 @@ session_start();
          <select required name="userType">
             <option value="">--Select User Roles--</option>
             <option value="Administrator">Administrator</option>
+<<<<<<< HEAD
             <option value="Lecture">Lecture</option>
+=======
+            <option value="Lecture">User</option>
+>>>>>>> 7770af8e (Remove embedded repository and add project files)
       </select>
         <input type="email" name="email"placeholder="example@gmail.com">
         <input type="password"name="password" placeholder="password">

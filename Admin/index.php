@@ -85,8 +85,13 @@ include '../Includes/session.php';
            
             <div class="table-container">
             <a href="createLecture.php" style="text-decoration:none;"> <div class="title">
+<<<<<<< HEAD
                     <h2 class="section--title">Lectures</h2>
                     <button class="add"><i class="ri-add-line"></i>Add lecture</button>
+=======
+                    <h2 class="section--title">Users</h2>
+                    <button class="add"><i class="ri-add-line"></i>Add User</button>
+>>>>>>> 7770af8e (Remove embedded repository and add project files)
                 </div>
             </a>
                 <div class="table">

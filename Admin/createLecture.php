@@ -75,8 +75,13 @@ if (isset($_POST["addLecture"])) {
 
    <div class="table-container">
             <a href="#add-form" style="text-decoration:none;"> <div class="title" id="addLecture">
+<<<<<<< HEAD
                     <h2 class="section--title">Lectures</h2>
                     <button class="add"><i class="ri-add-line"></i>Add lecture</button>
+=======
+                    <h2 class="section--title">Users</h2>
+                    <button class="add"><i class="ri-add-line"></i>Add User</button>
+>>>>>>> 7770af8e (Remove embedded repository and add project files)
                 </div>
             </a>
                 <div class="table">
@@ -121,7 +126,11 @@ if (isset($_POST["addLecture"])) {
     <form method="POST" action="" name="addLecture" enctype="multipart/form-data">
         <div style="display:flex; justify-content:space-around;">
             <div class="form-title">
+<<<<<<< HEAD
             <p>Add Lecture</p>
+=======
+            <p>Add User</p>
+>>>>>>> 7770af8e (Remove embedded repository and add project files)
             </div>
         <div>
             <span class="close">&times;</span>
@@ -142,7 +151,11 @@ if (isset($_POST["addLecture"])) {
         }
         ?>
     </select>
+<<<<<<< HEAD
         <input type="submit" class="submit" value="Save Lecture" name="addLecture">
+=======
+        <input type="submit" class="submit" value="Save User" name="addLecture">
+>>>>>>> 7770af8e (Remove embedded repository and add project files)
     </form>		  
 </div>
       

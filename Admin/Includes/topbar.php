@@ -31,7 +31,11 @@ if (isset($_SESSION['userId'])) {
 <section class="header">
     <div class="logo">
         <i class="ri-menu-line icon icon-0 menu"></i>
+<<<<<<< HEAD
         <h2>Attendance M<span>s</span></h2>
+=======
+        <h3>Attendance Management<span>System</span></h3>
+>>>>>>> 7770af8e (Remove embedded repository and add project files)
     </div>
     <div class="search--notification--profile">
         <div id="searchInput" class="search">
