@@ -55,7 +55,7 @@ The Attendance Management System is a web-based application designed to streamli
 # Manage Courses
    ![image](https://github.com/user-attachments/assets/0e1cbd41-3045-4160-89fd-be07617336cd)
    ![image](https://github.com/user-attachments/assets/671ffe64-19df-4196-b8e3-4718f63d0b57)
-   ![image](https://github.com/user-attachments/assets/966eb7db-0e9a-49aa-ab4d-de12cdd5b99d
+   ![image](https://github.com/user-attachments/assets/966eb7db-0e9a-49aa-ab4d-de12cdd5b99d)
    ![image](https://github.com/user-attachments/assets/e6ac3b9d-40a0-44ad-a2fa-07d77fb513c5)
    ![image](https://github.com/user-attachments/assets/c7d3e664-8100-402d-a2ee-0f0444da2634)
 
