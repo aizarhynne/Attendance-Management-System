@@ -26,22 +26,55 @@ The Attendance Management System is a web-based application designed to streamli
     -A comprehensive dashboard for administrators to oversee courses, faculty, lecture venues, and student records.
 
 # Screenshots
+
 # Login Page User
+   ![image](https://github.com/user-attachments/assets/9ac11388-cd3b-4471-ad4f-535abab2ac82)
+
+# User Dashboard
+   ![image](https://github.com/user-attachments/assets/bb542a2d-7149-4762-bd04-30f0d87f7e53)
+
 # Take Attendance
+   ![image](https://github.com/user-attachments/assets/25dca193-5507-4949-821e-60499d1a0f3c)
+
 # View Attendance
+   ![image](https://github.com/user-attachments/assets/c2d0b8f6-fc4f-4d5b-bcfe-5ef7a8083de1)
+
 # Student Lists
+   ![image](https://github.com/user-attachments/assets/2a5104de-c330-42de-8068-58ee8cc44105)
+
 # Download Attendance
-# Login Page User
-# Manage Courses
-# Create Venue
-# Manage Lectures
-# Manage Students
+   ![image](https://github.com/user-attachments/assets/2e263bfc-ee48-4951-aacd-60580e5556d9)
+
+# Login Page Administrator
+   ![image](https://github.com/user-attachments/assets/e1409be8-d04b-4bc2-8ebd-17ddac0ba0eb)
+
 # Admin Dashboard
+   ![image](https://github.com/user-attachments/assets/d8199044-d76b-4cba-8ec6-c494577b3d84)
+   ![image](https://github.com/user-attachments/assets/a44cdaf3-6e40-4c7c-9834-5b38880669b6)
+
+# Manage Courses
+   ![image](https://github.com/user-attachments/assets/0e1cbd41-3045-4160-89fd-be07617336cd)
+   ![image](https://github.com/user-attachments/assets/671ffe64-19df-4196-b8e3-4718f63d0b57)
+   ![image](https://github.com/user-attachments/assets/966eb7db-0e9a-49aa-ab4d-de12cdd5b99d
+   ![image](https://github.com/user-attachments/assets/e6ac3b9d-40a0-44ad-a2fa-07d77fb513c5)
+   ![image](https://github.com/user-attachments/assets/c7d3e664-8100-402d-a2ee-0f0444da2634)
+
+# Create Venue
+   ![image](https://github.com/user-attachments/assets/6dc989f7-8149-44bd-b260-c3b68619d37e)
+   ![image](https://github.com/user-attachments/assets/c69e44c8-8d72-486f-9755-512807f552a0)
+
+# Manage Lectures
+   ![image](https://github.com/user-attachments/assets/b858804f-ffdc-4f60-9f85-11a7b6277e51)
+   ![image](https://github.com/user-attachments/assets/a0adbd3b-364a-472b-bac8-97791cc5ecc7)
+
+# Manage Students
+   ![image](https://github.com/user-attachments/assets/e1c2bb19-2931-4b3d-a40a-985120241ec1)
+   ![image](https://github.com/user-attachments/assets/53d0d31c-40ad-4b04-a822-f90459611051)
 
 # Technologies Used
-- Frontend: Angular, HTML, CSS, JavaScript
-- Backend: ASP.NET, Web API
-- Database: SQL-based database (e.g., MySQL, SQL Server)
+- Frontend: HTML, CSS, JavaScript
+- Backend: PHP
+- Database: SQL-based database 
 - Additional Libraries/Frameworks: Facial recognition API for authentication and attendance tracking
 
 # How to Run
